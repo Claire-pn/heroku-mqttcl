@@ -1,0 +1,30 @@
+{
+  "name": "heroku-mqttone",
+  "version": "1.0.0",
+  "description": "\"MQTT client served by Node with Express\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Claire-pn/heroku-mqttone.git"
+  },
+  "keywords": [
+    "mqtt, nodee, xpress"
+  ],
+  "author": "Claire Feliza Banawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Claire-pn/heroku-mqttone/issues"
+  },
+  "homepage": "https://github.com/Claire-pn/heroku-mqttone#readme",
+  "engines": {
+    "node": "10.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+   
+  }
+}
